@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iOC_04_Dictionary' target in the 'iOC_04_Dictionary' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
